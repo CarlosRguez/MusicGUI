@@ -1,0 +1,2 @@
+# MusicGUI
+Music desktop application
