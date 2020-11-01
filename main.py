@@ -2,7 +2,6 @@ from __future__ import unicode_literals
 import threading, time, tkinter
 import tkinter.messagebox
 from tkinter import *
-from tkinter import filedialog
 from mutagen.mp3 import MP3
 from pygame import mixer
 from io import BytesIO
