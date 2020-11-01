@@ -2,14 +2,16 @@
 Music desktop application (In Development)
 
 ## About
-This code is a music desktop application. 
+This code is a music desktop application. Written in Python.
 
 Uses Youtube as music database (but extendable for other platforms). why youtube?
 * updated music
 * search songs by chorus parts
+* uses youtube video miniature
+* (to be changed: saves the song with the youtube video name)
 
 The code saves the song in MP3 in your computer
-* offline
+* offline use
 * mp3 files easy to transfer to your phone
 
 Allows to do the basic music desktop-app stuff
@@ -18,7 +20,8 @@ Allows to do the basic music desktop-app stuff
 * music player controls
 
 This code has been tested to work with **Python 3.7.4**
-Written in Python. Used libraries:
+
+Used libraries:
 * mutagen
 * tkinter
 * pygame
@@ -27,6 +30,14 @@ Written in Python. Used libraries:
 * youtube_search
 
 (and the ones most likely already installed: io, PIL, urllib, threading, time, json...)
+
+
+## Screenshots
+![alt text](https://github.com/CarlosRguez/MusicGUI/blob/main/screenshots/3.PNG?raw=true)
+
+![alt text](https://github.com/CarlosRguez/MusicGUI/blob/main/screenshots/2.PNG?raw=true)
+
+![alt text](https://github.com/CarlosRguez/MusicGUI/blob/main/screenshots/1.PNG?raw=true)
 
 ## Disclaimer
 Its a finished program: everything should work completely fine. For any clarification, feel free to write to me.
